@@ -9,12 +9,12 @@ redirect_from:
 
 ## Before 2024.4.8  
 ### Jiexin Luo
-(21'CVPR) Multi-Scale Aligned Distillation for Low-Resolution Detection 
-(21'CVPR) Channel-wise Knowledge Distillation for Dense Prediction
-(23'CVPR) EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention
-(23'ICCV) EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction
-(22'CVPR) Masked Autoencoders Are Scalable Vision Learners
-(24'CVPR) EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment  Anything
+(21'CVPR) Multi-Scale Aligned Distillation for Low-Resolution Detection  
+(21'CVPR) Channel-wise Knowledge Distillation for Dense Prediction  
+(23'CVPR) EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention  
+(23'ICCV) EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction  
+(22'CVPR) Masked Autoencoders Are Scalable Vision Learners  
+(24'CVPR) EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment  Anything  
 ### Jingze Su
 (17'ICLR) Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer   
 (23'CVPR) Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners  
