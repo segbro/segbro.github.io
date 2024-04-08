@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## Before 2024.4.8  
+## Before 2024.4
+### Qi Li
 ### Jiexin Luo
 (21'CVPR) Multi-Scale Aligned Distillation for Low-Resolution Detection  
 (21'CVPR) Channel-wise Knowledge Distillation for Dense Prediction  
@@ -22,4 +23,3 @@ redirect_from:
 (23'ICCV) Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts  
 (23'CVPR) Visual Prompt Multi-Modal Tracking   
 (23'CVPR) Multimodal Prompting with Missing Modalities for Visual Recognition  
-(23'Arxiv) Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation  
