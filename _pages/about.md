@@ -7,8 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-# Before 2024.4.8  
-Jingze Su:  
+## Before 2024.4.8  
+### Jiexin Luo
+(21'CVPR) Multi-Scale Aligned Distillation for Low-Resolution Detection 
+(21'CVPR) Channel-wise Knowledge Distillation for Dense Prediction
+(23'CVPR) EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention
+(23'ICCV) EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction
+(22'CVPR) Masked Autoencoders Are Scalable Vision Learners
+(24'CVPR) EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment  Anything
+### Jingze Su
 (17'ICLR) Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer   
 (23'CVPR) Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners  
 (22'EMNLP) Mixture of Attention Heads: Selecting Attention Heads Per Token  
@@ -16,4 +23,3 @@ Jingze Su:
 (23'CVPR) Visual Prompt Multi-Modal Tracking   
 (23'CVPR) Multimodal Prompting with Missing Modalities for Visual Recognition  
 (23'Arxiv) Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation  
-(24'CVPR) Single-Model and Any-Modality for Video Object Tracking
