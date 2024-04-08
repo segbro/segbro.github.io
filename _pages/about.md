@@ -9,6 +9,10 @@ redirect_from:
 
 ## Before 2024.4
 ### Qi Li
+(21'CVPR) Distilling Knowledge via Knowledge Review  
+(23'ICCV) Lightweight Image Super-Resolution with Superpixel Token Interaction  
+(23'ICCV) Multi-modal Gated Mixture of Local-to-Global Experts for Dynamic Image Fusion   
+(23'ICCV) TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts
 ### Jiexin Luo
 (21'CVPR) Multi-Scale Aligned Distillation for Low-Resolution Detection  
 (21'CVPR) Channel-wise Knowledge Distillation for Dense Prediction  
