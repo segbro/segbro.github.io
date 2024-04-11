@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## 2024.4.10 
+### Qi Li
+(24'CVPR) SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
 ## Before 2024.4
 ### Qi Li
 (21'CVPR) Distilling Knowledge via Knowledge Review  
