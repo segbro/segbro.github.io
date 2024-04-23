@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.4.18 
+### Jiaxin Cai
+(24'CVPR) MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning  
+(24'Arxiv) MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection  
 ## 2024.4.10 
 ### Qi Li
 (24'CVPR) SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
