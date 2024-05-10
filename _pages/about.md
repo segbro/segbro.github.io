@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.5.9
+### Qi Li
+(24'CVPR) Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels
 ## 2024.4.25
 ### Jingze Su
-(23'CVPR)Efficient Multimodal Fusion via Interactive Prompting  
-(24'CVPR)Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation  
+(23'CVPR) Efficient Multimodal Fusion via Interactive Prompting  
+(24'CVPR) Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation  
 ### Jiaxin Cai
 (24'CVPR) SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking
 ## 2024.4.18 
