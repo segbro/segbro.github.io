@@ -17,7 +17,7 @@ redirect_from:
 (24'CVPR) SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking
 ## 2024.4.18 
 ### Jiexin Luo
-(24'CVPR) Masked AutoDecoder is Effective Multi-Task Vision Generalist
+(24'CVPR) Masked AutoDecoder is Effective Multi-Task Vision Generalist  
 (22'Neurips) A Unified Sequence Interface for Vision Tasks
 ### Jiaxin Cai
 (24'CVPR) MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning  
