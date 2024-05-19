@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 ## 2024.5.9
+### Jiexin Luo
+(24'CVPR) TransNeXt: Robust Foveal Visual Perception for Vision Transformers
+## 2024.5.9
 ### Qi Li
 (24'CVPR) Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels
 ## 2024.4.25
