@@ -10,7 +10,7 @@ redirect_from:
 ### Jiaxin Cai
 (24'CVPR) VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning  
 (24'CVPR) Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration
-## 2024.5.9
+## 2024.5.16
 ### Jiexin Luo
 (24'CVPR) TransNeXt: Robust Foveal Visual Perception for Vision Transformers
 ## 2024.5.9
