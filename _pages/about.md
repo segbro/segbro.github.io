@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.6.13
+### Qi Li
+(24'CVPR) Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models
+## 2024.6.6
+### Jingze Su
+(24'CVPR) Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
 ## 2024.5.23
 ### Jiaxin Cai
 (24'CVPR) VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning  
