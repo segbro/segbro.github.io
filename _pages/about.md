@@ -6,6 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.6.20
+### Jiexin Luo
+(24'CVPR) VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding
+### Qi Li
+(23'CVPR) PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers
 ## 2024.6.13
 ### Qi Li
 (24'CVPR) Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models
