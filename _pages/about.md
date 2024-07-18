@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.7.11
+### Qi Li
+(24''Arxiv) Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures
 ## 2024.6.20
 ### Jiexin Luo
 (24'AAAI) VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding
