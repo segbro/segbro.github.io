@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.7.25
+### Jingze Su
+(24'TIP) HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation
+## 2024.7.18
+### Jiaxin Cai
+(24'ECCV) IRSAM Advancing Segment Anything Model for Infrared Small Target Detection
 ## 2024.7.11
 ### Qi Li
 (24''Arxiv) Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures
