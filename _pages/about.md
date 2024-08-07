@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.8.1
+### Jiexin Luo
+(24'TPAMI) CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention
 ## 2024.7.25
 ### Jingze Su
 (24'TIP) HAFormer: Unleashing the Power of Hierarchy-Aware Features for Lightweight Semantic Segmentation
@@ -72,3 +75,5 @@ redirect_from:
 (23'ICCV) Partition-and-Debias: Agnostic Biases Mitigation via A Mixture of Biases-Specific Experts  
 (23'CVPR) Visual Prompt Multi-Modal Tracking   
 (23'CVPR) Multimodal Prompting with Missing Modalities for Visual Recognition  
+### Jiaxin Cai
+No record
