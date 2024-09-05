@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.8.8
+### Liwang Chen
+(24'ECCV) LookupViT：Compressing visual information to a limited number of tokens
 ## 2024.8.1
 ### Jiexin Luo
 (24'TPAMI) CrossFormer++: A Versatile Vision Transformer Hinging on Cross-Scale Attention
