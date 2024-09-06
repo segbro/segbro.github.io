@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.9.6
+### Qi Li
+(24'ECCV) EAFormer: Scene Text Segmentation with Edge-Aware Transformers
 ## 2024.8.8
 ### Liwang Chen
 (24'ECCV) LookupViT：Compressing visual information to a limited number of tokens
