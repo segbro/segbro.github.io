@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.9.23
+### Jiaxin Cai
+(24'TPAMI) Frequency-aware Feature Fusion for Dense Image Prediction
 ## 2024.9.6
 ### Qi Li
 (24'ECCV) EAFormer: Scene Text Segmentation with Edge-Aware Transformers
