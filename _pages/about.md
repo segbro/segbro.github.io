@@ -6,6 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.12.5
+### Jingze Su
+(24'Neurips) Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts
+# ------------1st stage: over------------
 ## 2024.9.23
 ### Jiaxin Cai
 (24'TPAMI) Frequency-aware Feature Fusion for Dense Image Prediction
