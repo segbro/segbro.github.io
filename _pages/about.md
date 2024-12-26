@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2024.12.19
+### Liwang Chen
+(24'ECCV) Textual Query-Driven Mask Transformerfor Domain Generalized Segmentation
+## 2024.12.12
+### Jiexin Luo
+(24'CVPR) UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory
 ## 2024.12.5
 ### Jingze Su
 (24'Neurips) Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts
