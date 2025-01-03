@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.1.3
+### Jiaxin Cai
+(25'AAAI) FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection
 ## 2024.12.19
 ### Liwang Chen
 (24'ECCV) Textual Query-Driven Mask Transformerfor Domain Generalized Segmentation
