@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 2025.1.3
+## 2025.1.9
+### Qi Li
+(24'Neurips) Learning Frequency-Adapted Vision Foundation Model for Domain Generalized Semantic Segmentation
+(24'MM) Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation
+## 2025.1.2
 ### Jiaxin Cai
 (25'AAAI) FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection
 ## 2024.12.19
