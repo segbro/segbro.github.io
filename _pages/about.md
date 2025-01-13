@@ -12,3 +12,10 @@ About Me
 
 Research Interests
 :   
+
+Our small group meetings
+:   
+Focus: Paper reading and discussion.  
+Frequency: Once a week (Nov 1 '23-Now).  
+Attendees: 6 members.  
+[Link](https://segbro.github.io) to the list of papers.
