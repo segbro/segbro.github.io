@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.2.27
+### Jiexin Luo
+(24'ICLR) Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model
+## 2025.1.16
+### Jingze Su
+(24'CVPR) Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion
 ## 2025.1.9
 ### Qi Li
 (24'Neurips) Learning Frequency-Adapted Vision Foundation Model for Domain Generalized Semantic Segmentation  
