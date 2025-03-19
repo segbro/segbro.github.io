@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.3.19
+### Jiaxin Cai
+(24'Neurips) Parameter-Inverted Image Pyramid Networks  
+(25'TCSVT) CPAL: Cross-prompting Adapter with LoRAs forRGB+X Semantic Segmentation
+## 2025.3.13
+### Liwang Chen
+(25'AAAI) Maximizing the Position Embedding for Vision Transformers with Global Average Pooling
 ## 2025.2.27
 ### Jiexin Luo
 (24'ICLR) Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model
