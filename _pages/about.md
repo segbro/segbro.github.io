@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.3.25
+### Gaocheng Zhang
+(25'Arxiv) Pixel to Gaussian: Ultra-Fast Continuous Super-Resolution with 2D Gaussian Modeling
 ## 2025.3.19
 ### Jiaxin Cai
 (24'Neurips) Parameter-Inverted Image Pyramid Networks  
