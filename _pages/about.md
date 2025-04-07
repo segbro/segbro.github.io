@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.4.7
+### Jingze Su
+(25'CVPR) SAM-REF: Introducing Image-Prompt Synergy during Interaction for Detail Enhancement in the Segment Anything Model
+## 2025.4.1
+### Qi Li
+(25'CVPR) ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object
 ## 2025.3.25
 ### Gaocheng Zhang
 (25'Arxiv) Pixel to Gaussian: Ultra-Fast Continuous Super-Resolution with 2D Gaussian Modeling
