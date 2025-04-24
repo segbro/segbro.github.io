@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.4.23
+### Chunxiao Chen
+(25'CVPR) CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution
+## 2025.4.15
+### Jiaxin Cai
+(25'CVPR) DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution
 ## 2025.4.7
 ### Jingze Su
 (25'CVPR) SAM-REF: Introducing Image-Prompt Synergy during Interaction for Detail Enhancement in the Segment Anything Model
