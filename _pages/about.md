@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 ## 2025.5
+### Jingze Su 5.20
+(25'CVPR) OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
 ### Qi Li 5.13
 (25'CVPR) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation
 ### Gaocheng Zhang 5.13 
