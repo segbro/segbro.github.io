@@ -6,7 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.6
+### Chunxiao Chen
+(25'CVPR) Adaptive Rectangular Convolution for Remote Sensing Pansharpening
 ## 2025.5
+### Jiaxin Cai 5.27
+(25'CVPR) BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance
 ### Jingze Su 5.20
 (25'CVPR) OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels
 ### Qi Li 5.13
