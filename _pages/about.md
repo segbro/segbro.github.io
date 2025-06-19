@@ -9,10 +9,10 @@ redirect_from:
 ## 2025.6
 ### Qi Li 6.18
 (25'CVPR) SNet: See Large, Focus Small
-### Gaocheng Zhang 6.10
-(25'CVPR) Samba: A Unified Mamba-based Framework for General Salient Object Detection
 ### Qi Li 6.10
 (25'CVPR) MobileMamba: Lightweight Multi-Receptive Visual Mamba Network
+### Gaocheng Zhang 6.10
+(25'CVPR) Samba: A Unified Mamba-based Framework for General Salient Object Detection
 ### Chunxiao Chen 6.3
 (25'CVPR) Adaptive Rectangular Convolution for Remote Sensing Pansharpening
 ## 2025.5
