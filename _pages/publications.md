@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Journal Paper
 ## 2025
 
 
