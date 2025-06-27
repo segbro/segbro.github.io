@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Ultra-high resolution image understanding"
-permalink: /cv/
+permalink: /UHR/
 author_profile: true
 redirect_from:
   - /resume
