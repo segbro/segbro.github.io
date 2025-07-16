@@ -6,11 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 2025.7
+### Chunxiao Chen 7.15
+(25'CVPR) ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect
+### Jiaxin Cai 7.2
+XXXXX
 ## 2025.6
 ### Jingze Su 6.24
 (25'CVPR) Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning
 ### Qi Li 6.18
-(25'CVPR) SNet: See Large, Focus Small
+(25'CVPR) LSNet: See Large, Focus Small
 ### Qi Li 6.10
 (25'CVPR) MobileMamba: Lightweight Multi-Receptive Visual Mamba Network
 ### Gaocheng Zhang 6.10
