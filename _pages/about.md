@@ -15,7 +15,7 @@ Research Interests
 
 Our small group meetings
 :   
-Name：[SegBro](https://segbro.github.io)
+Name：[SegBro](https://segbro.github.io)  
 Focus: Paper reading and discussion.  
 Frequency: Once a week (Nov 1 '23-Now).  
 Attendees: 3-7 members.
