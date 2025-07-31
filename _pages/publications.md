@@ -17,6 +17,9 @@ author_profile: true
 
 # Journal Paper
 ## 2025
+### Regional Crowd Flow Estimation from Aerial View 
+Huibin Wei, **<mark>Qi Li\*</mark>**, Xindai Lin, Yuhao Lin, Shu Wang, Shengfeng He, Antoni B Chan, Wenxi Liu  
+Neural Networks
 ### Playing to the Strengths of High-and Low-Resolution Cues for Ultra-high Resolution Image Segmentation
 **<mark>Qi Li</mark>**, Jiexin Luo, Chunxiao Chen, Jiaxin Cai, Wenjie Yang, Yuanlong Yu, Shengfeng He, Wenxi Liu  
 IEEE Robotics and Automation Letters (RA-L)
